@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://jayasri058.github.io/Portfolio",
+  "homepage": "https://jayasri058.github.io/JayasriPortfolioWebsite",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
